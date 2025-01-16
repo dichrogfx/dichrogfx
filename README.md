@@ -26,15 +26,18 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 
 ### 🛠️ Daily Drivers:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?logo=openai&logoColor=white)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dichrogfx&layout=compact&theme=radical)
+
 
 ### 🌱 I’m currently learning:
 - Applying **AI technologies** to solve real-life challenges and scenarios.
@@ -56,9 +59,6 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - He/Him
 - They/Them/Any
 
-### ⚡ Fun fact:
-I love diving into football/soccer stats, but don’t expect me to watch a full match of 90 minutes lol
-
 
 
 ### 📫 How to reach me:
@@ -67,6 +67,9 @@ I love diving into football/soccer stats, but don’t expect me to watch a full 
 - **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
   
 Let's connect and build something awesome together!
+
+### ⚡ Fun fact:
+I love diving into football/soccer stats, but don’t expect me to watch a full match of 90 minutes lol
 
 ---
 

@@ -28,7 +28,14 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![HPC](https://img.shields.io/badge/-High%20Performance%20Computing-0078D7?logo=linux&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00C4CC?logo=openai&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🌱 I’m currently learning:
 - Applying **AI technologies** to solve real-life challenges and scenarios.
@@ -60,14 +67,6 @@ I love diving into football/soccer stats, but don’t expect me to watch a full 
 - **LinkedIn**: [Việt Dũng Lê](https://www.linkedin.com/in/linda-le6321489/)
 - **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
 Let's connect and build something awesome together!
-
----
-
-![Made with Love](https://img.shields.io/badge/-Made%20with%20Love-E57373?logo=heart&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open%20Source-3DDC84?logo=openbadges&logoColor=white)
-![Code Runs on Coffee](https://img.shields.io/badge/-Code%20Runs%20on%20Coffee-FFDD00?logo=coffeescript&logoColor=black)
-### 🐣 Fun Easter Egg
-If you're reading this, you're part of the 1% who actually checks README files. Congratulations, you're awesome! 🎉
 
 ---
 

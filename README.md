@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 -->
 ---
 
-Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. Passionate about technology, I enjoy solving complex problems and contributing to open-source projects.
+Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
+
+---
 
 ### 🔭 I’m currently working on:
 - **Object Detection**: Developing computer vision systems for urban scenes.
@@ -27,6 +29,7 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ### 🌱 I’m currently learning:
 - Applying **AI technologies** to solve real-life challenges and scenarios.
@@ -34,9 +37,10 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - Studying **Kanji** as part of my journey to learn **Japanese**.
 
 
-### 👯 I’m looking to collaborate on:
-- **AI projects** in computer vision or NLP.
-- Innovative **data visualization** and interactive dashboards.
+### 🎯 Goals:
+- Contribute to impactful open-source projects.
+- Develop user-friendly AI solutions.
+
 
 ### 💬 Ask me about:
 - Data analysis workflows.
@@ -62,6 +66,13 @@ Let's connect and build something awesome together!
 
 ---
 
+### ☕ Support Me:
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dichrogfx)
+
+
+---
+
 ### 📊 Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dichrogfx&show_icons=true&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
+![Dichrogfx's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dichrogfx&theme=radical)

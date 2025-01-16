@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dichrogfx&layout=compact&theme=radical)
+
 
 
 ### 🌱 I’m currently learning:
@@ -65,7 +65,20 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - **Email**: [le.dung[at]web.de](mailto:le.dung[at]web.de)
 - **LinkedIn**: [Việt Dũng Lê](https://www.linkedin.com/in/linda-le6321489/)
 - **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
-  
+
+### 📫 How to reach me:
+<p>
+  <a href="mailto:le.dung[at]web.de" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/linda-le6321489/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://dichrogfx.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
 Let's connect and build something awesome together!
 
 ### ⚡ Fun fact:

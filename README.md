@@ -1,6 +1,6 @@
 ## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">
----
+
 <!--
 **dichrogfx/dichrogfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
 
 Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. Passionate about technology, I enjoy solving complex problems and contributing to open-source projects.
 

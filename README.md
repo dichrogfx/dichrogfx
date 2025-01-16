@@ -24,11 +24,11 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - **Segmentation Models**: Experimenting with Swin Transformer, SegFormer and DeepLabV3+ for semantic segmentation tasks.
 
 ### 🛠️ Daily Drivers:
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-333333?logo=openai&logoColor=white)
 
 ### 🌱 I’m currently learning:
 - Applying **AI technologies** to solve real-life challenges and scenarios.

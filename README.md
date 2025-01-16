@@ -63,9 +63,11 @@ Let's connect and build something awesome together!
 
 ---
 
-### ☕ Support Me:
-[![Buy Me More RAM](https://img.shields.io/badge/-Buy%20Me%20More%20RAM-7289da?logo=raspberrypi&logoColor=white)](https://www.paypal.com/paypalme/vietdungle)
-
+![Made with Love](https://img.shields.io/badge/-Made%20with%20Love-E57373?logo=heart&logoColor=white)
+![Open Source](https://img.shields.io/badge/-Open%20Source-3DDC84?logo=openbadges&logoColor=white)
+![Code Runs on Coffee](https://img.shields.io/badge/-Code%20Runs%20on%20Coffee-FFDD00?logo=coffeescript&logoColor=black)
+### 🐣 Fun Easter Egg
+If you're reading this, you're part of the 1% who actually checks README files. Congratulations, you're awesome! 🎉
 
 ---
 

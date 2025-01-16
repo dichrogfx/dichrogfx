@@ -1,6 +1,3 @@
-### 📈 Contributions:
-![Dichrogfx's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dichrogfx&theme=radical)
-
 ## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">
 

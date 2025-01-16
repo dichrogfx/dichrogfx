@@ -64,7 +64,7 @@ Let's connect and build something awesome together!
 ---
 
 ### ☕ Support Me:
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/dichrogfx)
+[![Buy Me More RAM](https://img.shields.io/badge/-Buy%20Me%20More%20RAM-7289da?logo=raspberrypi&logoColor=white)](https://www.paypal.com/paypalme/vietdungle)
 
 
 ---

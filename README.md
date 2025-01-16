@@ -1,5 +1,6 @@
 ## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
+
 
 <!--
 **dichrogfx/dichrogfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,4 +66,3 @@ Let's connect and build something awesome together!
 ---
 
 ### 📊 Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)

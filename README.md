@@ -59,6 +59,7 @@ I love diving into football/soccer stats, but don’t expect me to watch a full 
 - **Email**: [le.dung[at]web.de](mailto:le.dung[at]web.de)
 - **LinkedIn**: [Việt Dũng Lê](https://www.linkedin.com/in/linda-le6321489/)
 - **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
+  
 Let's connect and build something awesome together!
 
 ---

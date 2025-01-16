@@ -1,17 +1,5 @@
-## Hi there 👋
-![Wave](https://github.com/dichrogfx/dichrogfx/blob/main/wave.gif)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dichrogfx&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dichrogfx&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dichrogfx&theme=react-dark&hide_border=true&area=true)
-### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=dichrogfx&theme=tokyo-night)
-![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
+## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
+![Coding](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
 
 <!--
 **dichrogfx/dichrogfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +17,11 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. Passionate about technology, I enjoy solving complex problems and contributing to open-source projects.
+
+### 🛠️ Daily Drivers:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
 ### 🔭 I’m currently working on:
 - **Object Detection**: Developing computer vision systems for urban scenes.
@@ -61,4 +54,8 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 I love diving into football/soccer stats, but don’t expect me to watch a full match of 90 minutes lol
 
 Let's connect and build something awesome together!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dichrogfx&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
+
 

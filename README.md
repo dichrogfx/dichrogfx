@@ -1,4 +1,4 @@
-## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=blue)
+## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=24292E)
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">
 
 

@@ -60,12 +60,6 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - They/Them/Any
 
 
-
-### 📫 How to reach me:
-- **Email**: [le.dung[at]web.de](mailto:le.dung[at]web.de)
-- **LinkedIn**: [Việt Dũng Lê](https://www.linkedin.com/in/linda-le6321489/)
-- **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
-
 ### 📫 How to reach me:
 <p>
   <a href="mailto:le.dung[at]web.de" target="_blank">

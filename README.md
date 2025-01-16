@@ -82,6 +82,6 @@ I love diving into football/soccer stats, but don’t expect me to watch a full 
 
 ### 📊 Stats: 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dichrogfx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dichrogfx&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---
 
 Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
 
----
 
 ### 🔭 I’m currently working on:
 - **Object Detection**: Developing computer vision systems for urban scenes.
@@ -46,7 +44,6 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 - Data analysis workflows.
 - My creative outlets photography and music!
 
----
 
 ### 😄 Pronouns:
 - He/Him
@@ -55,14 +52,13 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 ### ⚡ Fun fact:
 I love diving into football/soccer stats, but don’t expect me to watch a full match of 90 minutes lol
 
----
 
-Let's connect and build something awesome together!
 
 ### 📫 How to reach me:
 - **Email**: [le.dung[at]web.de](mailto:le.dung[at]web.de)
 - **LinkedIn**: [Việt Dũng Lê](https://www.linkedin.com/in/linda-le6321489/)
 - **Portfolio**: [dichrogfx.github.io](https://dichrogfx.github.io/)
+Let's connect and build something awesome together!
 
 ---
 
@@ -72,7 +68,5 @@ Let's connect and build something awesome together!
 
 ---
 
-### 📊 Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dichrogfx&show_icons=true&theme=radical)  
+### 📊 Stats: 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dichrogfx&theme=radical)](https://git.io/streak-stats)
-![Dichrogfx's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=dichrogfx&theme=radical)

@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![HPC](https://img.shields.io/badge/-High%20Performance%20Computing-0078D7?logo=linux&logoColor=white)
 
 ### 🌱 I’m currently learning:
 - Applying **AI technologies** to solve real-life challenges and scenarios.

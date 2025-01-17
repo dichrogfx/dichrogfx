@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
 
-<table>
-  <tr>
-    <td><img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding"></td>
-    <td>
-      <p>
-        Welcome to my GitHub profile! I'm Dũng Lê, a <b>Data Science Master's student</b> and <b>Research Assistant</b> with a focus on <b>machine learning</b> and <b>data analysis</b>.
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding" style="margin-right: 20px;">
+  <p>
+    Welcome to my GitHub profile! I'm Dũng Lê, a <b>Data Science Master's student</b> and <b>Research Assistant</b> with a focus on <b>machine learning</b> and <b>data analysis</b>.
+  </p>
+</div>
+
 
 
 ### 🔭 I’m currently working on:

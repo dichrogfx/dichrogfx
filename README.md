@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding">
+  <div>
+    Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**.
+  </div>
+</div>
 
 
 ### 🔭 I’m currently working on:

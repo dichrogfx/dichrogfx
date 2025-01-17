@@ -1,6 +1,5 @@
 ## Hi there 👋 ![Visitor Count](https://komarev.com/ghpvc/?username=dichrogfx&color=24292E)
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" alt="Coding"> 
-Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
 
 
 
@@ -19,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
 
 
 

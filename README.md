@@ -64,13 +64,13 @@ Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student**
 
 ### 📫 How to reach me:
 <p>
-  <a href="mailto:le.dung[at]web.de" target="_blank">
+  <a href="mailto:le.dung[at]web.de" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/linda-le6321489/" target="_blank">
+  <a href="https://www.linkedin.com/in/linda-le6321489/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://dichrogfx.github.io/" target="_blank">
+  <a href="https://dichrogfx.github.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>

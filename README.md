@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm Dũng Lê, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
+Welcome to my GitHub profile! I'm Dũng, a **Data Science Master's student** and **Research Assistant** with a focus on **machine learning** and **data analysis**. 
 
 
 
